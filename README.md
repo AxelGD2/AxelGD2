@@ -15,6 +15,8 @@
   <a href="https://github.com/AxelGD2/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=AxelGD2.AxelGD2"></a>
 </p>
 
+## 🛠 &nbsp;About Me
+
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
@@ -45,4 +47,16 @@
 
 #### 🔧 Databases
 
-#### 🔧 Tools
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### 🔧 Tools / Editors
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Warp](https://img.shields.io/badge/warp-%2301A4FF.svg?style=for-the-badge&logo=warp&logoColor=white)
