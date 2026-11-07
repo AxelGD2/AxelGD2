@@ -17,10 +17,10 @@
 
 <h3 align="left">✨ Some Projects I Made</h3>
 <ul>
-   <li align="left">-> CanchaSV - Sports court reservation and rental app (In Development).</li>
-   <li align="left">-> SIGVET - University project for prisoners and cell management.</li>
-   <li align="left">-> AlcaldiaConectaSV - Municipal Incident Reporting App.</li>
-   <li align="left">-> You can see more in my portafolio: (In Development).</li>
+   <li align="left">CanchaSV - Sports court reservation and rental app (In Development).</li>
+   <li align="left">SIGVET - University project for prisoners and cell management.</li>
+   <li align="left">AlcaldiaConectaSV - Municipal Incident Reporting App.</li>
+   <li align="left">You can see more in my portafolio: (In Development).</li>
 </ul>
 
 <h3 align="left">✨ Contact</h3>
