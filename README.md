@@ -13,9 +13,9 @@
 
 ## 👨‍💻 &nbsp;About Me
              
-<p align="left">I am a Software Engineering Student and Backend Learning Enthusiast, also interested in Software Architecture, Database Design, CI/CD, Cybersecurity and DevOps. I have experience collaborating in projects with different technologies in backend oriented.</p>
+<p align="left">I'm a Software Engineering student passionate about Backend Development, Software Architecture, and Database Design. I'm particularly interested in building scalable applications, designing efficient APIs, and exploring technologies related to CI/CD, Cybersecurity, and DevOps. I enjoy learning new technologies and collaborating on software projects.</p>
 
-<h3 align="left">✨ Some Projects I Made</h3>
+<h3 align="left">✨ Featured Projects</h3>
 <ul>
    <li align="left">CanchaSV - Sports court reservation and rental app (In Development).</li>
    <li align="left">SIGVET - University project for prisoners and cell management.</li>
@@ -23,7 +23,7 @@
    <li align="left">You can see more in my portafolio: (In Development).</li>
 </ul>
 
-<h3 align="left">✨ Contact</h3>
+<h3 align="left">✉️ Contact</h3>
 <ul>
    <li>
       <strong>Email:</strong>
@@ -80,7 +80,7 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Warp](https://img.shields.io/badge/warp-%2301A4FF.svg?style=for-the-badge&logo=warp&logoColor=white)
 
-## 🌐 &nbsp;Conect With Me
+## 🌐 &nbsp;Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AxelGD2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-cerritos-44bb8920a/)
