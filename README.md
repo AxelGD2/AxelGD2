@@ -16,13 +16,20 @@
 <p align="left">I am a Software Engineering Student and Backend Learning Enthusiast, also interested in Software Architecture, Database Design, CI/CD, Cybersecurity and DevOps. I have experience collaborating in projects with different technologies in backend oriented.</p>
 
 <h3 align="left">✨ Some Projects I Made</h3>
-<p align="left">-> CanchaSV - Sports court reservation and rental app (In Development).</p>
-<p align="left">-> SIGVET - University project for prisoners and cell management.</p>
-<p align="left">-> AlcaldiaConectaSV - Municipal Incident Reporting App.</p>
-<p align="left">-> You can see more in my portafolio: (In Development).</p>
+<ul>
+   <li align="left">-> CanchaSV - Sports court reservation and rental app (In Development).</li>
+   <li align="left">-> SIGVET - University project for prisoners and cell management.</li>
+   <li align="left">-> AlcaldiaConectaSV - Municipal Incident Reporting App.</li>
+   <li align="left">-> You can see more in my portafolio: (In Development).</li>
+</ul>
 
 <h3 align="left">✨ Contact</h3>
-<a href="mailto:axelenriquecerritos@gmail.com">axelenriquecerritos@gmail.com</a>
+<ul>
+   <li>
+      <strong>Email:</strong>
+      <a href="mailto:axelenriquecerritos@gmail.com">axelenriquecerritos@gmail.com</a>
+   </li>
+</ul>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AxelGD2&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="AxelGD2" style="padding-right:20px;" />
