@@ -11,11 +11,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering%20Student;Always%20learning%20new%20things;C%23%20%26%20.NET%20Enthusiast;Aspiring%20.NET%20Backend%20Developer;Passionate%20About%20Backend%20Development&center=true&width=440&height=45"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AxelGD2/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=AxelGD2.AxelGD2"></a>
-</p>
-
 ## 👨‍💻 &nbsp;About Me
+             
+<p align="left">I am a Software Engineering Student and Backend Learning Enthusiast, also interested in Software Architecture, Database Design, CI/CD, Cybersecurity and DevOps. I have experience collaborating in projects with different technologies in backend oriented.</p>
+
+<h3 align="center">✨ Some Projects I Made</h3>
+-> CanchaSV - Sports court reservation and rental app (In Development).
+-> SIGVET - University project for prisoners and cell management.
+-> AlcaldiaConectaSV - Municipal Incident Reporting App.
+-> You can see more in my portafolio: (In Development).
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
 
 ## 🛠 &nbsp;Tech Stack
 
