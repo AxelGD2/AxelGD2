@@ -22,7 +22,7 @@
 <p align="left">-> You can see more in my portafolio: (In Development).</p>
 
 <h3 align="left">✨ Contact</h3>
-<p align="left">Email: axelenriquecerritos@gmail.com</p>
+<a href="mailto:axelenriquecerritos@gmail.com">axelenriquecerritos@gmail.com</a>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AxelGD2&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="AxelGD2" style="padding-right:20px;" />
